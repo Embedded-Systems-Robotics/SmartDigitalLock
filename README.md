@@ -251,7 +251,7 @@ For deployment in a real access-control environment, additional engineering woul
 
 Developed as a final project for a **Microcontrollers course**.
 
-[Watch the full demonstration on YouTube](https://www.youtube.com/watch?v=WSJQEND9hTM))
+[Watch the full demonstration on YouTube](https://www.youtube.com/watch?v=WSJQEND9hTM)
 
 ---
 
