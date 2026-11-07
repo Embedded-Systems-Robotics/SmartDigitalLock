@@ -251,6 +251,8 @@ For deployment in a real access-control environment, additional engineering woul
 
 Developed as a final project for a **Microcontrollers course**.
 
+[Watch the full demonstration on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 ---
 
 *This project demonstrates the integration of embedded programming, password validation, access-control logic, LCD messaging, LED status indication, and basic alarm handling in a microcontroller-based digital lock system.*
