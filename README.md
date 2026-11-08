@@ -245,9 +245,10 @@ This project is an educational microcontroller-based prototype. The green LED re
 
 For deployment in a real access-control environment, additional engineering would be required, including secure password storage, protection against power-loss or reset-based attempt bypass, a properly rated lock actuator and driver circuit, and appropriate fail-safe behavior.
 
-## Author
+## Authors
 
 **Lawrence Abou Karroum**
+**Jad Katerji**
 
 Developed as a final project for a **Microcontrollers course**.
 
