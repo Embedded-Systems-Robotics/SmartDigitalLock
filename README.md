@@ -247,7 +247,7 @@ For deployment in a real access-control environment, additional engineering woul
 
 ## Authors
 
-**Lawrence Abou Karroum**
+**Lawrence Abou Karroum** and 
 **Jad Katerji**
 
 Developed as a final project for a **Microcontrollers course**.
